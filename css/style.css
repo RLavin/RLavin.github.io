@@ -95,9 +95,10 @@ p{
 .gold-text {
   color: #B88D6F;
 }
-.silver-text{
-    color:#9a9a9a;
+.maroon-text{
+    color: #800000;
 }
+
 
 .henry-name {
   color: #B88D6F;
@@ -218,7 +219,7 @@ p{
 
 .default_color {
     background-color:
-            #800000 !important
+            #9a9a9a !important
 }
 
 .default_color_text{color: #2196F3 !important}
