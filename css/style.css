@@ -95,6 +95,9 @@ p{
 .gold-text {
   color: #B88D6F;
 }
+.silver-text{
+    color:#9a9a9a;
+}
 
 .henry-name {
   color: #B88D6F;
@@ -214,7 +217,8 @@ p{
 }
 
 .default_color {
-    background-color: #253149 !important
+    background-color:
+            #800000 !important
 }
 
 .default_color_text{color: #2196F3 !important}
